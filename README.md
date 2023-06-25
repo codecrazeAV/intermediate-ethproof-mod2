@@ -11,7 +11,7 @@ After launching the front end users can intereact with the deployed smart contra
 Users also need metamask wallet to make transaction.
 
 ## Getting Started
-download the zip file from the git repo and extract it to your machine.
+download the zip file from the git repo and extract it to your machine and open it on VS code.
 
 ### Installing
 You can install all the dependencies you would need for implementing this project with the command 
@@ -21,11 +21,11 @@ npm i
 Let the terminal where you have ran this command be terminal 1st
 
 ### Executing program
-open 2 more terminals. In 2nd terminal run the command 
+open 2 more terminals. On 2nd terminal run the command 
 ```
 npx hardhat node
 ```
-In the 1st terminal run 
+On the 1st terminal run 
 ```
 npx hardhat run --network localhost scripts/deploy.js
 ```
