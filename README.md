@@ -48,13 +48,4 @@ if you encoounter any error during interacting with the smart contract, just cle
 for the same wallet address in the same network and try again. 
 
 ## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+Anjan Gorai
