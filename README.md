@@ -21,10 +21,18 @@ npm i
 Let the terminal where you have ran this command be terminal 1st
 
 ### Executing program
-open 2 more terminals. In 2nd terminal run the command __npx hardhat node__
-In the 1st terminal run <b>npx hardhat run --network localhost scripts/deploy.js</b>
-
-
+open 2 more terminals. In 2nd terminal run the command 
+```
+npx hardhat node
+```
+In the 1st terminal run 
+```
+npx hardhat run --network localhost scripts/deploy.js
+```
+on the third terminal run
+```
+npm run dev
+```
 ## Help
 
 Any advise for common problems or issues.
