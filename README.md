@@ -14,7 +14,10 @@ Users also need metamask wallet to make transaction.
 download the zip file from the git repo and extract it to your machine.
 
 ### Installing
-You can install all the dependencies you would need for implementing this project with the command **npm i**
+You can install all the dependencies you would need for implementing this project with the command 
+```
+npm i
+```
 Let the terminal where you have ran this command be terminal 1st
 
 ### Executing program
