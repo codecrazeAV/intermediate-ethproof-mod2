@@ -11,7 +11,7 @@ After launching the front end users can intereact with the deployed smart contra
 Users also need metamask wallet to make transaction.
 
 ## Video Representation
-https://drive.google.com/drive/my-drive?q=type:video
+https://drive.google.com/file/d/15XaIIE1rb_4QLJDFVfQdLSIxs8yNpXC0/view?usp=sharing
 
 ## Getting Started
 download the zip file from the git repo and extract it to your machine and open it on VS code.
