@@ -4,7 +4,7 @@ This project is a simple integration of a smart contract deployed on a local hos
 ## Description
 
 In this project, I have built a smart contract with basic transaction functions like withdraw, deposit, and send functions.
-And integrating it with the front end. The user needs to deploy the smart contract on their local blockchain network.
+And I integrated it with the front end. The user needs to deploy the smart contract on their local blockchain network.
 After launching the front end, users can interact with the deployed smart contract from the web page and make all the transactions.
 Users also need a metamask wallet to make transactions.
 
